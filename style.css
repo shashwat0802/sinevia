@@ -11,6 +11,16 @@ body{
 
 }
 
+.main-banner{
+  background: url('./img/banner-bg.png') no-repeat center;
+  background-size: cover;
+}
+
+.easy-setup{
+  background: url('./img/easy-setup-bg.png') no-repeat center;
+  background-size: cover;
+}
+
 /* accordion */
 pre {
     font-family: monospace, monospace;
